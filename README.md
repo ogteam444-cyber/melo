@@ -1,2 +1,3 @@
 # melo
-dino
+learning how to use github
+
